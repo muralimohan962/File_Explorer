@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="File Explorer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/File_Explorer_jar</output-path>
+    <root id="archive" name="File Explorer.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
